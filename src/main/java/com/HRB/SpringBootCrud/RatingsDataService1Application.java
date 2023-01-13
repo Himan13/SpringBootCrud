@@ -1,0 +1,13 @@
+package com.HRB.SpringBootCrud;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RatingsDataService1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RatingsDataService1Application.class, args);
+	}
+
+}
